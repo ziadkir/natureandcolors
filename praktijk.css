@@ -1,0 +1,113 @@
+body{
+    background-color: black;
+}
+.head1
+{
+    background-color:mediumseagreen ;
+    width: 100%;
+    height: 10em;
+    border-radius: 2px;
+}
+
+.foot2
+{
+    background-color: mediumseagreen;
+    width: 500px;
+    height: 2em;
+    
+}
+
+.tabel
+{
+    min-width: 400px;
+    min-height: 200px;
+    border: 5px;
+}
+
+td {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+
+#cel1{
+background-color: red;
+color: aqua;
+}
+#cel2{
+background-color: blue;
+color: red;
+}
+#cel3{
+background-color: yellow;
+color: green;
+}
+#cel4{
+background-color: green;
+color: yellow;
+}
+#cel5{
+background-color: purple;
+}
+#cel6{
+background-color: pink;
+}
+#cel7{
+background-color: chocolate;
+}
+#cel8{
+background-color: aliceblue;
+}
+#cel9{
+background-color: orange;
+color: blue
+}
+#cel10{
+background-color: orangered;
+color: greenyellow;
+}
+#cel11{
+background-color: orchid;
+color: blanchedalmond;
+}
+#cel12{
+background-color: aqua;
+color: chocolate;
+}
+#cel13{
+background-color: cornflowerblue;
+}
+#cel14{
+background-color: bisque;
+}
+#cel15{
+background-color: cadetblue;
+}
+#cel16{
+background-color: navy;
+}
+
+div table{
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+footer{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 2px;
+    text-decoration: underline;
+}
+
+.h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    text-shadow: 1px 4px 5px;
+}
